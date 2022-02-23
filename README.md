@@ -39,7 +39,7 @@ Techniques & Process**
 **Analysis & Insights**
 
 - Ground Floor:
- * **Jury Room**, **Subpoena Room** and **Law Room** are the most underutilised
+  * **Jury Room**, **Subpoena Room** and **Law Room** are the most underutilised
 - First Floor:
- * **Verdict Room**, **Bail Room** and **Affidavit Room** are the most underutilised
+  * **Verdict Room**, **Bail Room** and **Affidavit Room** are the most underutilised
 - From this, we can conclude that the law firm need not invest in expanding their offices, but simply improve the actual utilisation of said rooms. This can be done by improving booking infrastructure so that cancellations do not impact availiable staff from using the rooms.
