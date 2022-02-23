@@ -9,7 +9,9 @@
 
 Techniques & Process**
 
--
+- Connect to *meeting_rooms* and **Inner Join** *Rooms* to *Room Shapes*:
+
+![]()
 
 **Analysis & Insights**
 
