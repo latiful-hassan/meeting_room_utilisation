@@ -5,7 +5,7 @@
 
 **Task**
 
-- With the existing floor plans, create a map to visualise utilisation vs actual utilisation
+- With the existing floor plans, create a polygon map to visualise utilisation vs actual utilisation
 
 Techniques & Process**
 
