@@ -26,7 +26,17 @@ Techniques & Process**
 
 ![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/floor_plan_polygon_map_booked_utilisation.png)
 
--
+- Added a **Parameter** to toggle between floor plans 
+- Edited the filter with condition: [Floor] = [Select Floor]
+- Created a **Calculated Field** to allow the floor plan background image to change when toggled via paramter
+- Added a new parameter to toggle between *Booked Utilisation* and *Actual Utilisation*
+- Created a new calculated field to toggle utilisation using a **IIF** statement: 
+  * IIF([Select Visualisation] = 'Actual Utilisation', [Actual Utilisation], [Booked Utilisation])
+- Edited tooltip for clarity:
+
+![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/tool_tip.png)
+
+- 
 
 **Analysis & Insights**
 
