@@ -13,7 +13,7 @@ Techniques & Process**
 
 ![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/rooms_join.png)
 
-- Created a polygon map to show the room layouts for first and ground floor (selectable via filter):
+- Created a polygon map to show the room layouts for first and ground floor:
 
 ![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/initial_polygon_map.png)
 
@@ -36,8 +36,10 @@ Techniques & Process**
 
 ![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/tool_tip.png)
 
-- 
-
 **Analysis & Insights**
 
--
+- Ground Floor:
+ * **Jury Room**, **Subpoena Room** and **Law Room** are the most underutilised
+- First Floor:
+ * **Verdict Room**, **Bail Room** and **Affidavit Room** are the most underutilised
+- From this, we can conclude that the law firm need not invest in expanding their offices, but simply improve the actual utilisation of said rooms. This can be done by improving booking infrastructure so that cancellations do not impact availiable staff from using the rooms.
