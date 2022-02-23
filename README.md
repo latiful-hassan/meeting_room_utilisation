@@ -17,7 +17,9 @@ Techniques & Process**
 
 ![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/initial_polygon_map.png)
 
-- 
+- Overlayed the polygon map on the floor plan:
+
+![]()
 
 **Analysis & Insights**
 
