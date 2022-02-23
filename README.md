@@ -19,7 +19,10 @@ Techniques & Process**
 
 - Overlayed the polygon map on the floor plan:
 
-![]()
+![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/floor_plan_polygon_map.png)
+
+- Blended the data with *meeting_rooms_utilisation*
+- 
 
 **Analysis & Insights**
 
