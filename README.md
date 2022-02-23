@@ -24,7 +24,7 @@ Techniques & Process**
 - Blended the data with *meeting_rooms_utilisation*
 - Adding *Booked Utilisation* into the colour shelf:
 
-![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/floor_plan_polygon_map_booked_utilisation.png)#
+![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/floor_plan_polygon_map_booked_utilisation.png)
 
 -
 
