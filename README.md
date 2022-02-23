@@ -1,4 +1,4 @@
-# overcrowded_office
+# meeting_room_utilisation
 **Context**
 
 - A law firm has an issue with staff claiming meeting rooms are never availiable to book, however, the partners suspect that the issue is down to poor utilisation of the spaces, as some are book but never used - therefore, they do not know if they should expand the office
