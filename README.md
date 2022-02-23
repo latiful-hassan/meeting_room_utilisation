@@ -15,7 +15,9 @@ Techniques & Process**
 
 - Created a polygon map to show the room layouts for first and ground floor (selectable via filter):
 
-![]()
+![](https://github.com/latiful-hassan/overcrowded_office/blob/main/overcrowded_office_screenshots/initial_polygon_map.png)
+
+- 
 
 **Analysis & Insights**
 
